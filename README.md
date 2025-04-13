@@ -1,2 +1,1 @@
-# mysql-portfolio-nextjs
-A portfolio project using Next.js and MySQL
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
